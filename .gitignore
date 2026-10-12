@@ -1,0 +1,12 @@
+node_modules/
+.vs/
+.env
+.git/
+.gradle/
+android/.gradle/
+android/app/build/
+android/app/.cxx/
+ios/Pods/
+build/
+*.jks
+*.keystore
